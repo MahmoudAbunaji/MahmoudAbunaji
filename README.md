@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahmoudAbunaji
 - 👀 I’m interested in ... Reactive mobile deveopment
-- 🌱 I’m currently learning ... Flutter 
+- 🌱 I’m currently working Flutter development for mobile.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ... mahmoud.abunaji23@gmail.com
 
